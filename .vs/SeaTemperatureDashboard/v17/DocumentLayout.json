@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SeaTemperatureDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\controllers\\seapollutionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\controllers\\seapollutionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\seatemperaturedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\seatemperaturedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\controllers\\seatemperaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\controllers\\seatemperaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\seatemperatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\seatemperatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\seapollutions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\seapollutions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\migrations\\20240607180846_addidentitytoseatemperaturedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\migrations\\20240607180846_addidentitytoseatemperaturedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\migrations\\20240607182225_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\migrations\\20240607182225_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\migrations\\20240607182639_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\migrations\\20240607182639_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\migrations\\seatemperaturecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\migrations\\seatemperaturecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|d:\\seatemperaturedashboard\\seatemperaturedashboard\\data\\seatemperaturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D5E58-3555-40ED-945F-2AB5D14262B4}|SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj|solutionrelative:seatemperaturedashboard\\data\\seatemperaturecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Program.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Program.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:52:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeaPollutionsController.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\SeaPollutionsController.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Controllers\\SeaPollutionsController.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\SeaPollutionsController.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Controllers\\SeaPollutionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:59:56.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:02:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeaTemperatureDashboard",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj",
+              "RelativeToolTip": "SeaTemperatureDashboard\\SeaTemperatureDashboard.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T21:47:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T19:01:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeaTemperaturesController.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\SeaTemperaturesController.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Controllers\\SeaTemperaturesController.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\SeaTemperaturesController.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Controllers\\SeaTemperaturesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:17:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\appsettings.json",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\appsettings.json",
+              "RelativeToolTip": "SeaTemperatureDashboard\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T18:49:14.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:18:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\appsettings.Development.json",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\appsettings.Development.json",
+              "RelativeToolTip": "SeaTemperatureDashboard\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T19:02:19.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:02:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:10:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:04:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:04:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\SeaTemperatures\\Index.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\SeaTemperatures\\Index.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\SeaTemperatures\\Index.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\SeaTemperatures\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:18:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T17:55:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240607180846_AddIdentityToSeaTemperatureDB.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607180846_AddIdentityToSeaTemperatureDB.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Migrations\\20240607180846_AddIdentityToSeaTemperatureDB.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607180846_AddIdentityToSeaTemperatureDB.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Migrations\\20240607180846_AddIdentityToSeaTemperatureDB.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAIBJwPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:08:46.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:02:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:15:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\SeaPollutions\\Index.cshtml",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Views\\SeaPollutions\\Index.cshtml",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Views\\SeaPollutions\\Index.cshtml",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Views\\SeaPollutions\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:03:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SeaTemperatureContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\SeaTemperatureContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Migrations\\SeaTemperatureContextModelSnapshot.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\SeaTemperatureContextModelSnapshot.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Migrations\\SeaTemperatureContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:13:04.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:02:19.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:01:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeaTemperatureContext.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Data\\SeaTemperatureContext.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Data\\SeaTemperatureContext.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Data\\SeaTemperatureContext.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Data\\SeaTemperatureContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:05:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240607182225_InitialIdentityMigration.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607182225_InitialIdentityMigration.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Migrations\\20240607182225_InitialIdentityMigration.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607182225_InitialIdentityMigration.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Migrations\\20240607182225_InitialIdentityMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:22:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240607182639_AddIdentityTables.cs",
+              "DocumentMoniker": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607182639_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "SeaTemperatureDashboard\\Migrations\\20240607182639_AddIdentityTables.cs",
+              "ToolTip": "D:\\SeaTemperatureDashboard\\SeaTemperatureDashboard\\Migrations\\20240607182639_AddIdentityTables.cs",
+              "RelativeToolTip": "SeaTemperatureDashboard\\Migrations\\20240607182639_AddIdentityTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:26:39.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

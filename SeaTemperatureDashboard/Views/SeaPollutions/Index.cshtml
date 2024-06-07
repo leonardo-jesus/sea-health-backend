@@ -1,0 +1,89 @@
+﻿@using Newtonsoft.Json
+@model IEnumerable<SeaTemperatureDashboard.Data.SeaPollution>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sea Pollutions Dashboard</title>
+    <!-- Adicionar Chart.js via CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h2>Sea Pollutions Dashboard</h2>
+
+    <!-- Formulário para Seleção de Período -->
+    <form method="get" asp-controller="SeaPollutions" asp-action="Index">
+        <label for="startDate">Data de Início:</label>
+        <input type="date" id="startDate" name="startDate" required />
+
+        <label for="endDate">Data de Fim:</label>
+        <input type="date" id="endDate" name="endDate" required />
+
+        <button type="submit">Filtrar</button>
+    </form>
+
+    <canvas id="seaPollutionChart" width="400" height="200"></canvas>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var ctx = document.getElementById('seaPollutionChart').getContext('2d');
+
+            // Definindo as cores para cada localização
+            var colors = {
+                'Atlantic Ocean': 'rgba(255, 99, 132, 0.2)',
+                'Pacific Ocean': 'rgba(54, 162, 235, 0.2)',
+                'Indian Ocean': 'rgba(75, 192, 192, 0.2)',
+                // Adicione mais cores conforme necessário
+            };
+
+            var borderColors = {
+                'Atlantic Ocean': 'rgba(255, 99, 132, 1)',
+                'Pacific Ocean': 'rgba(54, 162, 235, 1)',
+                'Indian Ocean': 'rgba(75, 192, 192, 1)',
+                // Adicione mais cores conforme necessário
+            };
+
+            var labels = @Html.Raw(JsonConvert.SerializeObject(ViewBag.Locations));
+            var data = @Html.Raw(JsonConvert.SerializeObject(Model.Select(p => p.PollutionLevel)));
+            var locations = @Html.Raw(JsonConvert.SerializeObject(Model.Select(p => p.Location)));
+
+            // Criação dos datasets com cores específicas para cada localização
+            var datasets = labels.map((location, index) => {
+                return {
+                    label: location,
+                    data: locations.map((loc, i) => loc === location ? data[i] : 0),
+                    backgroundColor: colors[location],
+                    borderColor: borderColors[location],
+                    borderWidth: 1
+                };
+            });
+
+            var chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: datasets
+                },
+                options: {
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Localização'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Nível de Poluição'
+                            },
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
